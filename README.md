@@ -101,7 +101,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 ## Rights
 
 All story content, writing, original concepts, artwork, designs, and project materials are protected.  
-See [RIGHTS.md](RIGHTS.md) for usage terms.
+See [LICENSE.md](LICENSE.md) for usage terms.
 
 ---
 
